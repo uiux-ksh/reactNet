@@ -2,7 +2,7 @@
 
 function App() {
     return(
-        <div>hello</div>
+        <div>두번째 커미;ㅅ</div>
     )
 }
 
