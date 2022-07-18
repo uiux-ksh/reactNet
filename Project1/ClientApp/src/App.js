@@ -1,8 +1,13 @@
+import Mapping from "./components/Mapping";
+import Async from "./components/Async";
 
 
 function App() {
     return(
-        <div>김영호 3번째 커밋 테스트중</div>
+        <div>
+            <Mapping/>
+            <Async/>
+        </div>
     )
 }
 
