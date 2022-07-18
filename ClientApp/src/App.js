@@ -1,8 +1,15 @@
+import Mapping from "./component/Mapping/Mapping";
+import Textarea from "./component/Mapping/Textarea";
+
 
 
 function App() {
+
     return(
-        <div>hello</div>
+        <div>
+           <Mapping />
+            <Textarea/>
+        </div>
     )
 }
 
